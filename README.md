@@ -150,7 +150,13 @@ Password: admin123
 ![Reservas](screenshots/usuario-reservas.png)
 
 ### Panel de administración
-![Admin](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Admin - Vuelos
+![Admin Vuelos](screenshots/admin-vuelos.png)
+
+### Admin - Hoteles
+![Admin Hoteles](screenshots/admin-hoteles.png)
 
 ---
 
