@@ -1,6 +1,6 @@
 # ✈️ TravelBooking
 
-Aplicación web de reservas de vuelos y hoteles desarrollada con PHP y MySQL, orientada a simular el funcionamiento de una agencia de viajes moderna.
+Aplicación web de reservas de vuelos y hoteles desarrollada con PHP y MySQL, que simula el funcionamiento de una agencia de viajes moderna con sistema de usuarios, reservas y panel de administración.
 
 ## 🚀 Descripción
 
@@ -86,7 +86,7 @@ TravelBooking/
 1. Clonar el repositorio:
 
 ```
-git clone https://github.com/TU-USUARIO/TravelBooking.git
+git clone https://github.com/maxi-design/travel-booking-php.git
 ```
 
 2. Mover el proyecto a:
@@ -129,15 +129,28 @@ Password: admin123
 
 ---
 
-## 📸 Capturas (Screenshots)
+## 📸 Capturas
 
-> Agrega aquí imágenes del proyecto
+### Home
+![Home](screenshots/home.png)
 
-* Home
-* Vuelos
-* Hoteles
-* Panel usuario
-* Panel admin
+### Vuelos
+![Vuelos](screenshots/vuelos.png)
+
+### Detalle de vuelo
+![Detalle vuelo](screenshots/detalle-vuelo.png)
+
+### Hoteles
+![Hoteles](screenshots/hoteles.png)
+
+### Panel de usuario
+![Usuario](screenshots/usuario-panel.png)
+
+### Mis reservas
+![Reservas](screenshots/usuario-reservas.png)
+
+### Panel de administración
+![Admin](screenshots/admin-dashboard.png)
 
 ---
 
