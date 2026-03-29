@@ -132,31 +132,31 @@ Password: admin123
 ## 📸 Capturas
 
 ### Home
-![Home](screenshots/home.png)
+![Home](screenshoots/home.png)
 
 ### Vuelos
-![Vuelos](screenshots/vuelos.png)
+![Vuelos](screenshoots/vuelos.png)
 
 ### Detalle de vuelo
-![Detalle vuelo](screenshots/detalle-vuelo.png)
+![Detalle vuelo](screenshoots/detalle-vuelo.png)
 
 ### Hoteles
-![Hoteles](screenshots/hoteles.png)
+![Hoteles](screenshoots/hoteles.png)
 
 ### Panel de usuario
-![Usuario](screenshots/usuario-panel.png)
+![Usuario](screenshoots/usuario-panel.png)
 
 ### Mis reservas
-![Reservas](screenshots/usuario-reservas.png)
+![Reservas](screenshoots/usuario-reservas.png)
 
 ### Panel de administración
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshoots/admin-dashboard.png)
 
 ### Admin - Vuelos
-![Admin Vuelos](screenshots/admin-vuelos.png)
+![Admin Vuelos](screenshoots/admin-vuelos.png)
 
 ### Admin - Hoteles
-![Admin Hoteles](screenshots/admin-hoteles.png)
+![Admin Hoteles](screenshoots/admin-hoteles.png)
 
 ---
 
